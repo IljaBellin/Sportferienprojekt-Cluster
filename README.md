@@ -7,4 +7,4 @@ In meinem [Factsheet](https://github.com/IljaBellin/Sportferienprojekt-Cluster/b
 
 Meine ganze Kubernetes-Umgebung habe ich anhand [dieser Anleitung](https://opensource.com/article/20/6/kubernetes-raspberry-pi) aufgesetzt.
 
-Und hier ist [meine Version](https://github.com/IljaBellin/Sportferienprojekt-Cluster/blob/main/Wie%20ich%20meine%20Raspberry%20PIs%20konfiguriere.md) der oben genannten Anleitung.
+Und hier ist [meine Version](https://github.com/IljaBellin/Sportferienprojekt-Cluster/blob/main/Cluster_eigene_Anleitung.md) der oben genannten Anleitung.
