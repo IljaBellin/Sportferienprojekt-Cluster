@@ -8,7 +8,7 @@ Zudem habe ich bei den erweiterten Einstellungen SSH mit der Passwort-Option aus
 Danach habe ich mich mit dem Befehl
 `ssh <username>@<hostname>` per SSH mit den PIs verbunden.
 
-Auch habe ich Statische IPs gesetzt. [Dieser](https://github.com/IljaBellin/Sportferienprojekt-Cluster/blob/main/static%20ip%20config.PNG) Screenshot erklärt dies.
+Auch habe ich Statische IPs gesetzt. [Dieser](https://github.com/IljaBellin/Sportferienprojekt-Cluster/blob/main/StaticIPConfig.PNG) Screenshot erklärt dies.
 
 ##MicroK8s installieren
 
