@@ -1,5 +1,7 @@
-##Wie ich meine Raspberry PIs konfiguriert habe
+#Wie ich meine Raspberry PIs konfiguriert habe
+
 ---
+
 ## Ubuntu Server installieren
 
 Ich habe auf jede SD Karte der PIs Ubuntu Server mit dem [Raspberry PI Imager](https://www.raspberrypi.com/software/) gebrannt.
@@ -10,6 +12,7 @@ Danach habe ich mich mit dem Befehl
 `ssh <username>@<hostname>` per SSH mit den PIs verbunden.
 
 ##MicroK8s installieren
+
 
 Auf jedem PI muss man das CMD line File ändern.
 `sudo nano /boot/firmware/cmdline.txt`
