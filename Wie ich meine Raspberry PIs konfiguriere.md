@@ -1,4 +1,4 @@
-#Wie ich meine Raspberry PIs konfiguriert habe
+##Wie ich meine Raspberry PIs konfiguriert habe
 ---
 ## Ubuntu Server installieren
 
