@@ -1,3 +1,4 @@
+
 #Wie ich meine Raspberry PIs konfiguriert habe
 
 ---
@@ -10,6 +11,7 @@ Zudem habe ich bei den erweiterten Einstellungen SSH mit der Passwort-Option aus
 
 Danach habe ich mich mit dem Befehl
 `ssh <username>@<hostname>` per SSH mit den PIs verbunden.
+
 
 ##MicroK8s installieren
 
