@@ -10,7 +10,7 @@ Danach habe ich mich mit dem Befehl
 
 Auch habe ich Statische IPs gesetzt. [Dieser](https://github.com/IljaBellin/Sportferienprojekt-Cluster/blob/main/StaticIPConfig.PNG) Screenshot erklärt dies.
 
-##MicroK8s installieren
+## MicroK8s installieren
 
 Auf jedem PI muss man das CMD line File ändern.
 `sudo nano /boot/firmware/cmdline.txt`
