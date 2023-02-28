@@ -8,3 +8,7 @@ In meinem [Factsheet](https://github.com/IljaBellin/Sportferienprojekt-Cluster/b
 Meine ganze Kubernetes-Umgebung habe ich anhand [dieser Anleitung](https://opensource.com/article/20/6/kubernetes-raspberry-pi) aufgesetzt.
 
 Und hier ist [meine Version](https://github.com/IljaBellin/Sportferienprojekt-Cluster/blob/main/Cluster_eigene_Anleitung.md) der oben genannten Anleitung.
+
+Mit den Container habe ich vieles probiert, doch nichts hat so funktioniert wie es sollte. Deshalb neheme ich es nicht in diese Anleitung. 
+
+Beim Monitoring habe ich die gleiche Situation. Ich habe vieles probiert, aber nichts hat funktioniert. Deshalb belasse ich es beim getesteten.
