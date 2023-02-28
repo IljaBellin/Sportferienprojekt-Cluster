@@ -1,4 +1,4 @@
-#Wie ich meine Raspberry PIs konfiguriert habe
+Wie ich meine Raspberry PIs konfiguriert habe
 ---
 ## Ubuntu Server installieren
 Ich habe auf jede SD Karte der PIs Ubuntu Server mit dem [Raspberry PI Imager](https://www.raspberrypi.com/software/) gebrannt.
